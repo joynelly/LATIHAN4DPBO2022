@@ -6,7 +6,7 @@ Janji
 
 
 #### Design Program
-![alt text](https://github.com/joynelly/LATIHAN4DPBO2022/blob/main/img/ilustrasi.png?raw=true)
+![alt text](https://github.com/joynelly/LATIHAN4DPBO2022/blob/main/img/ilustrasi_design.png?raw=true)
 
 #### Penjelasan Desain
 Saya membuat kelas Person (manusia) dan kelas Job (pekerjaan) menjadi base dari kelas Driver (Pengemudi) karena secara objek, Driver dan Person **merupakan** objek yang sama (seorang driver merupakan Person/Manusia, jadi memiliki **_is a_** relationship). Begitu juga dengan Driver dan Job yang secara objek **merupakan** objek yang sama (driver merupakan sebuah pekerjaan, jadi memiliki ***is a*** relationship). Person dan Driver tidak memiliki relationship karena secara objek bukan merupakan objek yang sama.
