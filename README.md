@@ -27,7 +27,7 @@ Terdapat 7 jenis data yang ditampilkan, yaitu:
   4. Data yang dideklarasikan dengan kelas Vehicle (hanya memiliki atribut kelasnya)
   5. Data yang dideklasrasikan dengan kelas Ship (memiliki atribut kelas vehicle juga)
   6. Data yang dideklasrasikan dengan kelas Airplane (memiliki atribut kelas vehicle juga)
-  7. Data lengkap dimana terdapat kelas driver yang memiliki vehicle (ship dan Airplane)
+  7. Data lengkap dimana terdapat kelas driver yang memiliki vehicle (ship/Airplane)
 
 
 
